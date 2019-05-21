@@ -11,3 +11,5 @@ Submitting the same or substantially similar work in multiple courses, either in
 I acknowledge that a failure to abide ny NYU Stern Honor Code will result in a failing frade for the project and course. 
 
 ### Project Description:
+
+My intention for this project was to investigate the amount of Universal Pre-K sites and thier location. I wanted to see if there was correlation between the average income of a county and the amount of sites that were available. I used API's related to the location of the sites and income per geography. 
